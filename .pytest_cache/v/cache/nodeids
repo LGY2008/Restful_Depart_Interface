@@ -1,3 +1,6 @@
 [
-  "Scripts/test_depart.py::TestDepart::()::test_add_depart"
+  "Scripts/test_depart.py::TestDepart::()::test_add_depart",
+  "Scripts/test_depart.py::TestDepart::()::test_get_depart_one",
+  "Scripts/test_depart.py::TestDepart::()::test_get_depart",
+  "Scripts/test_depart.py::TestDepart::()::test_delete_depart"
 ]

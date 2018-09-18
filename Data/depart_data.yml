@@ -1,10 +1,10 @@
 text_depart_get_all:
   expect_status: 200
-  expect_text: Test_001
+  expect_text: T03
 text_depart_add:
   data:
     -
-      dep_id: Test_008
+      dep_id: Test_0111
       dep_name: Test学院
       master_name: Test-Master
       slogan: Here is Slogan

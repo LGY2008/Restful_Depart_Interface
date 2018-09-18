@@ -75,6 +75,7 @@ class BaseTools():
         :return: 返回字典格式 键名内容：url、status、json、text、headers
         """
         # 调用 delete方法
-        str=requests.delete(url=url,timeout=5)
+        str=requests.delete(url=url)
         # 返回响应结果
-        return self.get_result(str)
+        # return self.get_result(str)
+        return str
